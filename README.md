@@ -11,16 +11,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+* I am a Computer Science student at the University of Bath.
+
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=James-the-coder&show_icons=true&theme=dark&locale=en&hide_border=true" alt="James-the-coder" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-the-coder&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
