@@ -6,8 +6,6 @@
 <a href="https://www.instagram.com/jms_ogb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
-
 * I am a Computer Science student at the University of Bath.
 
 
