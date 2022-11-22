@@ -55,7 +55,7 @@ No Activity Tracked This Week
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+  ![c#](https://img.shields.io/badge/-c#-333333?style=flat&logo=c#)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
@@ -73,11 +73,3 @@ No Activity Tracked This Week
 [![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
 
 ***
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
