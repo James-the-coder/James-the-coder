@@ -54,6 +54,7 @@ No Activity Tracked This Week
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![c#](https://img.shields.io/badge/-c#-333333?style=flat&logo=c#)
 
