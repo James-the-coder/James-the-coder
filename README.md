@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+<!-- [![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=James-the-coder&theme=tokyonight)](https://github.com/James-the-coder/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
@@ -31,7 +31,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
 No Activity Tracked This Week
