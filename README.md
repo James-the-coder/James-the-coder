@@ -2,7 +2,7 @@
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 <p align="center"> <h1 align="center"> Hi, I'm James Ogborne</p>
 <p align="center">
-<a href="https://codewars/users/JettinJames/"><img src="https://img.shields.io/badge/-codewars-AB0013?style=for-the-badge&logo=Codewars&logoColor=black"/> </a>
+<a href="https://codewars.com/users/JettinJames/"><img src="https://img.shields.io/badge/-codewars-AB0013?style=for-the-badge&logo=Codewars&logoColor=black"/> </a>
 <a href="https://www.hackerrank.com/imkashyap"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="https://twitter.com/imkashyap_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="https://www.instagram.com/jms_ogb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
