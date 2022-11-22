@@ -52,7 +52,7 @@ No Activity Tracked This Week
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?logo=react&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![c#](https://img.shields.io/badge/-c#-333333?style=flat&logo=c#)
+  ![c#](https://img.shields.io/badge/-c#-333333?style=flat&logo=C)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
