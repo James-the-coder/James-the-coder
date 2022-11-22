@@ -48,53 +48,23 @@ No Activity Tracked This Week
 -->
  
 <!--END_SECTION:waka-->
-***
-**♨️ &nbsp;DSA Analytics**
-
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
-***
 
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
-***
-
--  🔭 I’m currently working on building Custom servers using NodeJs or Dart shelf package.
-
--  🌱 I’m currently learning React. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
-
--  👯 I’m looking to collaborate on projects for my **Country India**.
-
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
-
--  😄 Pronouns: He/His
-
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
 
 <!-- -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
