@@ -50,13 +50,12 @@ No Activity Tracked This Week
 
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![React Native](https://img.shields.io/badge/-ReactJs-333333?logo=react&logoColor=white&style=flat)
+  ![React Native](https://img.shields.io/badge/-React-Native-333333?logo=react&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![c#](https://img.shields.io/badge/-c#-333333?style=flat&logo=c#)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
