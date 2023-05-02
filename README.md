@@ -3,7 +3,6 @@
 <p align="center"> <h1 align="center"> Hi, I'm James Ogborne</p>
 <p align="center">
 <a href="https://codewars.com/users/JettinJames/"><img src="https://img.shields.io/badge/-codewars-AB0013?style=for-the-badge&logo=Codewars&logoColor=black"/> </a>
-<a href="https://www.instagram.com/jms_ogb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 
 * I am a Computer Science student at the University of Bath.
